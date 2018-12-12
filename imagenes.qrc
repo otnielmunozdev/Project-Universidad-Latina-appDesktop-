@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/free-yellow-background-vector.jpg</file>
+        <file>imagenes/school.jpg</file>
+        <file>imagenes/unila.png</file>
+        <file>imagenes/depositphotos_42110927-stock-illustration-back-to-school.jpg</file>
+        <file>../../../../../Documents/Universidad_Latina/imagenes/logo-universidad-latina.png</file>
+        <file>imagenes/scientific-complex-chemistry-on-black-background.jpg</file>
+        <file>imagenes/equipamiento-para-la-escuela-con-pizarra-de-fondo_1161-65.jpg</file>
+        <file>imagenes/matematicas-en-pizara.gif</file>
+        <file>imagenes/Eh3ji2Ih.png</file>
+        <file>imagenes/calificaciones.png</file>
+        <file>imagenes/g1_08.gif</file>
+        <file>imagenes/Libros.png</file>
+        <file>imagenes/Numbers512_44201.png</file>
+    </qresource>
+</RCC>
